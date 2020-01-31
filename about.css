@@ -346,6 +346,8 @@ h1{
     font-family: sans-serif;
     font-weight: bold;
    color:white;
+   background-size: cover;
+   height: 100vh;
   }
   table{
     padding: 50px;
