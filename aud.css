@@ -1,0 +1,137 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: "Oleo Script Swash Caps", cursive;
+    background: url(aud2.jeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: vkjh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    border-bottom-width: 90%;
+    background-color: grey;
+  }
+  #section1 {
+    background-size: cover;
+    height: fit-content;
+    width: fit-content;
+    height: 800px;
+    width: 100%;
+    color: white;
+    font-family: tahoma;
+    font-style: italic;
+    flex-direction: row;
+    float: center;
+    background-size: 100%;
+    text-align: center;
+    /* background-color: ; */
+    font-size: large;
+    background-color: grey;
+  }
+  .class {
+    background-color: grey;
+  }
+  
+  #container {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    position: static;
+    display: inline;
+    /* float: inline-end;
+    float: right; */
+  }
+  
+  #float {
+    float: center;
+    margin-right: 250px;
+    /* background-color: ; */
+    font-size: 10px;
+    text-align: center;
+    /* float: ; */
+  }
+  h2 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  
+  #activities {
+    font-size: 30px;
+    text-align: center;
+    float: cen;
+    margin-right: 200px;
+  }
+  
+  #section2 {
+    background-size: cover;
+    height: fit-content;
+    width: fit-content;
+    height: 900px;
+    width: 100%;
+    color: white;
+    font-family: tahoma;
+    font-style: italic;
+    flex-direction: row;
+    float: center;
+    background-size: 100%;
+    text-align: center;
+    /* background-color: ; */
+    font-size: 25px;
+    background-color: gray;
+  }
+  h2 {
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  h1 {
+    color: turquoise;
+    font-weight: bolder;
+    font-size: 30px;
+  }
+  #float {
+    float: center;
+    margin-right: 250px;
+    /* background-color: ; */
+    font-size: 18px;
+    text-align: center;
+    /* float: ; */
+  }
+  
+  #section3 {
+    background-size: cover;
+    height: fit-content;
+    width: fit-content;
+    height: 600px;
+    width: 100%;
+    color: white;
+    font-family: tahoma;
+    font-style: italic;
+    flex-direction: row;
+    float: center;
+    background-size: 100%;
+    text-align: center;
+    background-color: gre;
+    font-size: large;
+  }
+  h1 {
+    color: turquoise;
+    font-weight: bolder;
+  }
+  #section3 #activities {
+    font-size: 35px;
+    text-align: center;
+    float: right;
+    margin-left: -50px;
+    flex-direction: row;
+    margin-top: 20px;
+    height: 50px;
+  }
+  
