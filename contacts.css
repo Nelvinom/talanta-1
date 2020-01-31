@@ -59,4 +59,5 @@ footer{
     background: #125688;
     color: white;
     border-radius: 30%;
+    columns: 2;
   }
