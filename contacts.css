@@ -1,0 +1,63 @@
+body{
+    font-family: sans-serif;
+    background-image: url("https://bit.ly/2tcyOGT");
+    color: cornsilk;
+}
+#reach{ 
+    width: 280px;
+    height:auto;
+    font-family: 'Open Sans Condensed', sans-serif; 
+}
+
+#contact{
+    height: auto;
+
+}
+
+footer{
+    text-align: center;
+    background-color: darkgrey;
+    
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: left;
+    text-decoration: none;
+    
+  }
+.soc{
+    font-style: italic;
+    color: black;
+}  
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 30%;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 30%;
+  }
+
+  /* YouTube*/
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    border-radius: 30%;
+  }
+  /*Instagram*/
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    border-radius: 30%;
+    
+  }
