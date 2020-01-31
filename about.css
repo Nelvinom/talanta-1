@@ -1,15 +1,16 @@
 body{
   font-family:cursive;
-  /* background-image: url(https://bit.ly/2uDvPYD); */
+  background-image: url(https://bit.ly/2uDvPYD);
   background-size: cover;
   justify-content: center;
   width: 100%;
-  height: 100vh;
+  height: 2000vh;
   padding:2px;
   box-sizing: border-box;
   outline: darkblue;
   overflow-x: unset;
   border-color: midnightblue;
+  background: cover;
 
   
  
